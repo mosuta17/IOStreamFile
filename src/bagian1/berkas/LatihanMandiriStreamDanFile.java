@@ -20,10 +20,10 @@ public class LatihanMandiriStreamDanFile {
             System.out.println("Berkas 'laporan.txt' TIDAK ditemukan.");
         }
         
-        System.out.println(); // Baris baru untuk pembatas
+        System.out.println(); //pembatas aja
 
         // ==========================================
-        // 2: Membuat folder baru 'arsip'
+        // 2: Membuat folder baru 'arsip'  menggunakan method mkdir().
         // ==========================================
         System.out.println("--- SOAL 2 ---");
         File folderArsip = new File("arsip");
