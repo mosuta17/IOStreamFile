@@ -1,0 +1,6 @@
+Laptop Axioo;6000000.0;5
+Mouse Wireless;115000.0;20
+Earphone;150000.0;25
+Printer canon;500000.0;5
+Keyboard;200000.0;10
+Proyektor Limited Ed.FIFAWC26;1000000.0;1
